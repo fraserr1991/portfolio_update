@@ -42,10 +42,10 @@ const IconContainForFrameworks =styled.div`
 const Skills = () => {
     return(
         <SkillsBox id="Skills">
-        <Fade left>
+        <Fade left distance="80px">
         <Title>I've covered: </Title>
         </Fade>
-        <Fade right>
+        <Fade right distance="80px">
             <SubTitle>Programming languages</SubTitle>
             <IconContainerForLanguages>
             <i class="devicon-javascript-plain colored"></i>

@@ -42,11 +42,11 @@ useEffect(() => {
 
     return(
     <>
-    <Fade left>
+    <Fade left distance="80px">
     <Title>Projects: </Title>
     </Fade>
-    <Fade right> 
-    <ProjectsBox>
+    <Fade right distance="80px"> 
+    <ProjectsBox className="Projects" id="Projects">
     {projectsList.map((project) => {
             return (
             <ProjectDetails key={project.slug}>

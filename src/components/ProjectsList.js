@@ -4,13 +4,13 @@ export const projectsList = [
       date: '2022',
       slug: 'Week_05_Project',
       tagline: 'A coffee equipment shop',
-      languages: 'HTML, CSS, PostGreSql, Jinja2'
+      languages: 'HTML, CSS, PostGreSql, Jinja2, Flask'
     },
     {
         name: 'Portfolio site',
         date: '2022',
         slug: 'portfolio',
         tagline: 'This webstie, for hosting my own personal portfolio',
-        languages: 'HTML, CSS, React'
+        languages: 'HTML, CSS, React, NodeJS'
     }
   ]
