@@ -1,0 +1,11 @@
+.hash-link {
+    text-decoration: none;
+    color: black;
+}
+
+.hash-link:hover{
+    text-decoration: none;
+    background-color: rgb(152, 152, 152);
+    height: 60px;
+    color: white;
+}
